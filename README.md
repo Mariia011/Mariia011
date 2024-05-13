@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mariia-khachaturova-27165b271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariia-khachaturova-27165b271" height="30" width="40" /></a>
-<a href="https://t.me/avocado_fish12" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-filled-2/24/social_media-03-512.png" alt="mariia-khachaturova-27165b271" height="30" width="40" /></a>
+<a href="https://t.me/avocado_fish12" target="blank"><img align="center" src="6863777_media_paper_plane_social_telegram_icon.svg" alt="mariia-khachaturova-27165b271" height="30" width="40" /></a>
 </p>
 
 ###
