@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mariia and I'm a CS student, from Armenia</h2>
+<h2 align="left">Hi! My name is Mariia and I'm a CyberSecurity specialist from Armenia</h2>
 
 ###
 
