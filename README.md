@@ -1,7 +1,9 @@
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mariia011&theme=dracula) 
+<img align="center" src="assets/header.png" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mariia011&theme=dracula"></img>
+<br/>
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mariia011&theme=dracula"></img>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mariia011&theme=dracula) 
+
 <!-- <h3 align="left">Connect with me:</h3> -->
 <!-- <p align="left"> -->
 <!-- <a href="https://linkedin.com/in/mariia-khachaturova-27165b271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariia-khachaturova-27165b271" height="30" width="40" /></a> -->
@@ -9,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/kB-Liucd8p4AAAAj/pepega-hackermans.gif"  />
+<img align="right" height="150" src="assets/lainn.gif"  />
 
 ###
 
